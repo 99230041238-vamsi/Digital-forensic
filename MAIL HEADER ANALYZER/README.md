@@ -16,6 +16,7 @@
     original.
 
 -   Select all the text in the header and copy it.
+-   
 
 **Step 2: Use a Mail Header Analyzer**
 
