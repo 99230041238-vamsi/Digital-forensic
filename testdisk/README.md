@@ -26,6 +26,7 @@ Link : <https://www.cgsecurity.org/wiki/TestDisk_Download>
 
 -   Select the \[Create\] option to generate a log file of the recovery
     session. This is helpful for future reference or troubleshooting.
+    <img width="1099" height="626" alt="Image" src="https://github.com/user-attachments/assets/e26123a9-7e4e-4743-a00e-9230cb874392" />
 
 **2. Select the Drive to Analyze**
 
@@ -35,6 +36,7 @@ Link : <https://www.cgsecurity.org/wiki/TestDisk_Download>
     lost data.
 
 -   Select \[Proceed\] to move to the next step.
+-   <img width="1103" height="629" alt="Image" src="https://github.com/user-attachments/assets/c6018336-e1c6-41b9-bf26-e7d0884efe25" />
 
 **3. Choose the Partition Table Type**
 
@@ -43,13 +45,14 @@ Link : <https://www.cgsecurity.org/wiki/TestDisk_Download>
 
 -   The default value is usually correct. Confirm the selection by
     pressing Enter.
-
+    <img width="1083" height="633" alt="Image" src="https://github.com/user-attachments/assets/76f6d956-ab97-44f2-8a3c-c0701e73e64b" />
 **4. Analyze Current Partition Structure**
 
 -   From the main menu, choose \[Analyse\] and press Enter.
 
 -   This will display the current partition table and check for errors
     or missing partitions.
+    <img width="1103" height="631" alt="Image" src="https://github.com/user-attachments/assets/1e3a009c-ed03-4367-84a4-292dbba6a5d4" />
 
 **5. Perform a Quick Search**
 
