@@ -14,6 +14,9 @@ Steps to Capture RAM Using FTK Imager
 -   Open FTK Imager with administrative privileges.
 -   Right-click the FTK Imager icon and select Run as administrator
 -   
+![Image](https://github.com/user-attachments/assets/9d94e5eb-2b0b-49f2-a4aa-9b60c9664532)
+![Image](https://github.com/user-attachments/assets/953d82b7-ec3a-4a31-b746-7172baf7c964)
+
 
 **2. Initiate Memory Capture**
 
@@ -52,6 +55,8 @@ will be saved.
 
 -   Once finished, the memory dump file will be available in the
     destination folder.
+    ![Image](https://github.com/user-attachments/assets/eb02960c-c83e-4c47-b31f-d7f0ec0ecbe7)
+![Image](https://github.com/user-attachments/assets/f91254b0-186c-40d5-a986-e3363740db05)
 
 **Acquiring Non-Volatile Memory (Disk Image) Using FTK Imager**
 
@@ -65,6 +70,9 @@ A window will appear asking you to choose the source type:
 
 -   **Physical Drive:** Images the entire disk, including all
     partitions, unallocated space, and the Master Boot Record (MBR).
+     ![Image](https://github.com/user-attachments/assets/86feecc4-b8c0-40a3-b535-63e45bec7221)
+![Image](https://github.com/user-attachments/assets/53ff2dc2-be5a-4afc-8735-af938530f305)
+![Image](https://github.com/user-attachments/assets/05dd2e01-22ac-4e12-8fdf-66ca97c4e85e)
 
 -   **Logical Drive:** Images a specific partition (e.g., C: drive).
 
@@ -138,6 +146,8 @@ A window will appear asking you to choose the source type:
     drive and image.
 
 -   Matching hashes confirm the forensic image's integrity.
+    ![Image](https://github.com/user-attachments/assets/2a9d20c2-0c76-445b-a1ca-76e531f660a7)
+
 
 **References**
 
