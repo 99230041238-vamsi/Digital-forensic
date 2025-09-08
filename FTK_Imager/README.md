@@ -55,7 +55,7 @@ will be saved.
 
 -   Once finished, the memory dump file will be available in the
     destination folder.
-    ![Image](https://github.com/user-attachments/assets/eb02960c-c83e-4c47-b31f-d7f0ec0ecbe7)
+    
 ![Image](https://github.com/user-attachments/assets/f91254b0-186c-40d5-a986-e3363740db05)
 
 **Acquiring Non-Volatile Memory (Disk Image) Using FTK Imager**
@@ -71,7 +71,7 @@ A window will appear asking you to choose the source type:
 -   **Physical Drive:** Images the entire disk, including all
     partitions, unallocated space, and the Master Boot Record (MBR).
      ![Image](https://github.com/user-attachments/assets/86feecc4-b8c0-40a3-b535-63e45bec7221)
-![Image](https://github.com/user-attachments/assets/53ff2dc2-be5a-4afc-8735-af938530f305)
+
 ![Image](https://github.com/user-attachments/assets/05dd2e01-22ac-4e12-8fdf-66ca97c4e85e)
 
 -   **Logical Drive:** Images a specific partition (e.g., C: drive).
