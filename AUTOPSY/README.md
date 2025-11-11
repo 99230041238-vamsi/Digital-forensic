@@ -1,10 +1,5 @@
 # Use Autopsy to Create a Case and Import Evidence
 
-**Course / Lab:** Digital Forensics Lab  
-**Experiment No.:** 5  
-**Title:** Use Autopsy to Create a Case and Import Evidence  
-
-
 ---
 
 ## Aim
