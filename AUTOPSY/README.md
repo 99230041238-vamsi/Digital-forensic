@@ -1,4 +1,4 @@
-# Experiment 05: Forensic Investigation Using Autopsy
+# Forensic Investigation Using Autopsy
 
 ## Objective
 To create a forensic case and analyze evidence using Autopsy.
